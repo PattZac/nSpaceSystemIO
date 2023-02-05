@@ -1,0 +1,7 @@
+C:\Users\unkno\source\repos\kPath\kPath\bin\Debug\kPath.exe.config
+C:\Users\unkno\source\repos\kPath\kPath\bin\Debug\kPath.exe
+C:\Users\unkno\source\repos\kPath\kPath\bin\Debug\kPath.pdb
+C:\Users\unkno\source\repos\kPath\kPath\obj\Debug\kPath.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\kPath\kPath\obj\Debug\kPath.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\kPath\kPath\obj\Debug\kPath.exe
+C:\Users\unkno\source\repos\kPath\kPath\obj\Debug\kPath.pdb
